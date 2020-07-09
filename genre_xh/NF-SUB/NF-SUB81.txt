@@ -1,0 +1,87 @@
+xhosa.1712.yourlifeguide_stars
+Inyanga yakho
+Wena: Phucula indlela obukeka ngayo.
+Umsebenzi: Lixesha elinzima, uza kuvuzwa ngokusebenza nzima.
+Imali: Wena nomhlobo wakho ningeza neembono ezintle zokwenz' imali.
+Uthando: Lixesha lokuba uphulaphule ukuba sithini isinqanda-mathe sakho.
+Iintsuku zethamsanqa: 24, 25, 26
+Iinombolo zethamsanqa : 7, 10, 11, 25, 42, 48
+Wena: Uyabuthanda ubomi kwaye bukuhambela kakuhle.
+Umsebenzi: Cinga okuhle kungenzeka unyuselwe.
+Imali: Fumana iingcebiso ngemali.
+Uthando: Yiba nothando kwaye ubeluncedo kwiqabane lakho.
+Iintsuku zethamsanqa: 1, 27, 28
+Iinombolo zethamsanqa: 1, 4, 12, 14
+Wena: Lixesha lokwenza izicwangciso zengomso.
+Umsebenzi: Yonyusa amathuba akho omsebenzi ngokufunda.
+Imali: Yiphathe kakuhle imali yakho, ungazibona sele unemali esecaleni.
+Uthando: Umntu omtsha unomdla.
+Iintsuku zethamsanqa: 2, 3, 29, 30
+Iinombolo zethamsanqa: 15, 19, 22, 26, 28, 36
+Wena: Zimisele kwinto oyenzayo uya kuphumelela.
+Umsebenzi: Usenokudibana nomntu obalulekileyo kwezoshishino.
+Imali: Iimbono ezintle zingakwenzela imali kwixesha lakho elisecaleni.
+Uthando: Thand' iqabane lakho.
+Iintsuku zethamsanqa: 4, 5, 31
+Iinombolo zethamsanqa: 9, 24, 32, 33
+Wena: Lixesha elihle lemibono emitsha nokwenza izicwangciso zekamva lakho.
+Umsebenzi: Unako ukucel' umngeni kuba ithamsanqa lingakuwe.
+Imali: Sebenzisa iitalente zakho ukwenza imali.
+Uthando: Ubuhlobo buyaqandusela.
+Iintsuku zethamsanqa: 6, 7
+Iinombolo zethamsanqa: 13, 29, 34, 37, 39, 41
+Wena: Ubomi bubonakala buhamba kakuhle, oko kwenza kubelula ukuthabatha izigqibo.
+Umsebenzi: Yonwabel' ukudibana nabantu - ungafuman' iingcebiso ezizizo.
+Imali: Kuza amathuba okwenza imali!
+Uthando: Zinik' ithuba lakho wedwa neqabane lakho. Ningonwaba.
+Iintsuku zethamsanqa: 8, 9
+Iinombolo zethamsanqa: 6, 17, 18, 21, 30, 38
+Wena: Izicwangciso zekamva lakho zikuhambela kakuhle.
+Umsebenzi: Zimisele emsebenzini uza kuzuza.
+Imali: Iindlela ezinomdla zokwenza imali ziyakutyhilekela. Zisebenzise.
+Uthando: Uthando lusemoyeni. Ukuba awunamntu, lindela uthando olutsha.
+Iintsuku zethamsanqa: 10, 11
+Iinombolo zethamsanqa: 1, 5, 9, 13, 23, 28
+Wena: Uyakwazi okufunayo, oko kufezekisa iinjongo zakho.
+Umsebenzi: Kuya ngokubalula ukujongana neemeko zakho kwaye izinto zikuhambela kakuhle.
+Imali: Qwalasel' indlela osebenzisa ngayo imali yakho. Zama ukonga.
+Uthando: Kuza amaxesha olonwabo ngoko ke cinga ngothando.
+Iintsuku zethamsanqa: 12, 13, 14
+Iinombolo zethamsanqa: 3, 6, 22, 24, 42, 49
+Wena: Qhuba nokwenza izinto ezikunika umdla - uza kufumana iziphumo ezihle.
+Umsebenzi: Yiba lidela-ngozi, iza kubenza ubomi bakho bubenomdla.
+Imali: Usenokuba nethamsanqa.
+Uthando: Kule nyanga unobubele kwaye uthetha kuvakale. Ungakufumana okufunayo kumntu wesinye isini.
+Iintsuku zethamsanqa: 15, 16
+Iinombolo zethamsanqa: 4, 8, 16, 34
+IINKWENKWEZI ZAKHO
+Wena: Zixolise ngokufuna iimpendulo emthandazweni.
+Umsebenzi: Sebenza nzima, uzokhula.
+Imali: Uza kufumana imali ekufaneleyo.
+Uthando: Ukuba awunamntu kwaye uyamfuna, phuma udibane nabantu.
+Iintsuku zethamsanqa: 17, 18
+Iinombolo zethamsanqa: 2, 10, 14, 21, 27, 37
+Wena: Lixesha lokonwaba.
+Umsebenzi: Fumana inkuthazo ebantwini abaphumeleleyo ulinge ukwenza izinto ezintsha.
+Imali: Dibana nabantu ababalulekileyo.
+Uthando: Ukuba awunamntu, uthando lulo oluza kufumana wena.
+Iintsuku zethamsanqa: 19, 20, 21
+Iinombolo zethamsanqa: 7, 15, 31, 33, 38, 40
+Wena: Bambelela elukholweni - uza kulufumana uncedo.
+Umsebenzi: Iingxaki onazo emsebenzini ziyasombululeka.
+Imali: Eli lixesha elihle lokukhangela iindlela zokwenz' imali.
+Uthando: Yonwabela amaxesha amnandi.
+Iintsuku zethamsanqa: 22, 23
+Iinombolo zethamsanqa: 19, 35, 39 [x]
+IIMPAWU ZEENKWENKWEZI ARIES: Inkunzi yegusha, Igusha, Ithole
+TAURUS: Inkunzi, Inkomo, Inkabi
+GEMINI: Amawele, uCastor noPollux, ne-Pillar of Hercules
+CANCER: Unonkala, umnamvuni, Inkubabulongwe
+LEO: Ingonyama, ikati, uHercules
+VIRGO: Intombi enyulu, Ihlahla eliluhlaza, i-Ear of Wheat
+LIBRA: Isikali
+SCORPIO: Unomadudwane, Ukhozi, Inyoka
+SAGITTARIUS: Umtoli, Ihashe-mntu, Utolo
+CAPRICORN: ISeagoat, Idolfini
+AQUARIUS: Iselwa, Isitya samanzi
+PISCES: Zonk' iintlanzi, Umlobi

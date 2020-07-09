@@ -1,0 +1,45 @@
+Gekontamineerde area/land
+Totale volume reeds gebruik vir afvalwegdoening kubieke meter
+Ontvang deur:
+Afvaltipes: a Rioolslyk b Huishoudelike afval c Tuinafval d Plaasafval e Ander afval
+Aantal persone wat deur die afvalstortterreinfasiliteit
+Herwinning ja nee beplan vir toekomsHerwinningsmetodesa Informele herwinning b herwinningsaanleg c by brond Formele herwinning e kontrakteur
+Waterverbruikvrystelling van lisensie vereistes verwysingsnommer
+Die bestaande magtiging is geldig vanaf tot
+Terrein: dui die beoogde terreinklassifikasie met X aan C
+Benaderde totale volume per eiendom per jaar m3of t
+Bestaande permit of vrystellingsverwysingsnommer, indien van toepassing
+Afmetings van stortterrein lengte
+Ander opberging:
+Indien 'n loog/deursyferings bestuurstelsel bestaan, dui aan met 'n X
+Werklike afstand na die grens van die naaste a formele residensiële gebied m b informele residensiële gebied m c industriële gebied m
+Afvalstortsterrein Dui aan Grootte Benaderde Strorting het begin op: Storting het geëindig op: Naam van fasiliteit met 'n X (ha) leeftyd (j) (ivt)
+Afstand na die naaste boorgat wat vir drinkwater of veesuiping aangewend word meter
+k Kragstasie-afval l Gevaarlike afval a Beskryf die tipes afval geselekteer in 1.2, en voorsien ook die SIK kode b SIK kode
+Rangorde natste jaar mm de natste mm de natste mm de natste mm de natste mm de natste mm de natste mm ste natste mm de natste mm de natste mmTerrein-spesifieke waterbalansfaktoreIndien loog/deursyfering sigbaar is (slegs vir bestaande fasiliteite) dui aan met 'n XAnder terrein-spesifieke waterbalansfaktore (spesifiseer)
+Oppervlakte van werklike afvalliggaam (afdruk area)
+Na rehabilitasie meter
+Selekteer die tipe fasiliteit wat gebruik gaan word vir afvalwegdoening deur onderstaande tabel te voltooi
+Die natste jare gedurende die afgelope dertig jaar
+Opsomming : : :
+Belemmer, behalwe teen buitensporige koste-Gebiede wat bots met die lokale ontwikkelingsdoelwitte(LOD) proses en die streek afvalbestuurstrategie
+By aanvang meter
+Datumstempel van kantoor
+Kantoor in beheer van bestaande magtiging
+Bestuur van loog/deursyfering dui almal van toepassing met 'n X aan a op-terrein behandeling b loog/deursyferingsfasiliteite c besproeiing oor gekompakteerde en bedekte afval sluit die volume in as ko-afval verhouding bereken word d wegkering na rioolwerke e ander spesifiseer
+Stormwaterbestuur dui aan met 'n X a stroomop afsnyslote b Gekontamineerde stormwater stoorfasiliteit
+Ander: SpesifiseerRou/finale produk opberging
+Bedekking van afval dui almal van toepassing met 'n X aan a daaglikse bedekking b voldoende dekkingsmateriaal op terrein c daaglikse kompaksie
+Aard van afvalwegdoening a landvulling of landopbouing b oorlaaistasie c herwinningsaanleg d verbrander e Komposteringsaanleg f tuinafvalterrein g Stoorgebied h behandelingsaanleg i enkapsulasie j ander spesifiseer
+Totale oppervlakte van die eiendom (aangedui in registrasie deel 1) waarop afval gestort word hektaar
+Tydsduur van operasie begindatum einddatum
+Afstand vanaf die rand van die naaste stroom-af oppervlakwaterbron meter
+Fatale fout indikatore Indien enige van die volgende kriteria van toepassing is op die bestaande of voorgestelde fasiliteit, dui aan met 'n X : -Binne 3000 meter radius van die eindpunt van 'n vliegveld of landingstrook -Nader as 500 meter aan die grens van 'n lughawe of vliegveld -Lê binne die 1 in 100 jaar vloedlyn van 'n waterloop -In 'n onstabiele gebied (byv.verskuiwingsone, seismiese sone, dolomitiese gebiede, grondversakkinggebiede) -In ekologies of historiese sensitiewe gebiede -In 'n opvanggebied met belangrike, beduidende of sensitiewe opprevlakwaterbronne -In 'n gebied met vlak of sigbare grondwater, of wat gekenmerk word deur vlak hellings (vleie, fonteine, ens.) -In 'n gebied wat gekenmerk word deur steil hellings (bv. waar stabiliteitsprobleme ondervind kan word) -Gebiede waar grondwateraanvulling voorkom a.g.v. topografie en/of hoogs deurlaatbare substrata -Bo-op of aangrensend tot belangrike of potensiëel belangrike waterdraers (Parsons se klassifikasie: enigste bron, Hoofwaterdraer) -In 'n gebied met vlak rotsbodem of met beperkte oppervlakte dekkingmateriaal -Gebiede in die nabyheid van landgebruike wat nie versoenbaar is met afvalwegdoeningsaktiwiteite nie -Gebiede waar voldoende buffersones nie moontlik is nie -Gebiede direk wind-op van residensiële areas in die heersende windrigting. -Gebiede wat as gevilg van titelaktes, serwitute of ander beperkings nie vir afvalwegdoening hersoneer kan word nie -Gebiede wat gekenmerk word deur ander faktore wat die ontwikkeling van 'n afvalwegdoeningsfasiliteit sal
+Spesifiseer:Ander afvalstortterreine
+Bestaande permitnommer, indien van toepassing / / / / /
+Akkuraatheid van bogenoemde volumes a opgemeet b beraam
+Spesifiseer:
+Dui aan met 'n X of dit 'n nuwe gebruik gebruik nommer
+van voorletters rang handtekening vasgelê deur: voorletters
+Benaderde maksimum volume per eiendom per dag m3of t;
+of 'n wysiging is

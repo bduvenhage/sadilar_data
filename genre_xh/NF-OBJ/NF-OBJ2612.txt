@@ -1,0 +1,69 @@
+
+
+Isicelo sokunxibelelana ne-SARS ngobuxhakaxhaka boomatshini
+
+Inkcazelo
+Inkqubo emayilandelwe
+Umthetho osetyenziswayo
+Ixesha elithatyathwayo kunye nomgangatho ofikelelwayo
+Iindleko
+Iifom ezigcwaliswayo
+Iinkcukacha zonxulumano
+
+Inkcazelo
+
+Le nkonzo ivumela umntu, iziko okanye umbutho ukuba useke inkqubo yokunxibelelana ne-South African Revenue Service  ngobuxhakaxhaka bomatshini ngokonxibelelwano lobuchwepheshe obuchaziweyo. INkqubo eNtsha yeRhafu yeNgeniso-mali iqingqelwe ukunciphisa imveliso yeencwadi ngezandla nangokwamaphepha aphathekayo, kunye nokufaka uninzi lweenkqubo ezisetyenzwa ngezandla kubuxhakaxhaka bomatshini, kwaye kwangaxeshanye kuqinisekiswe ukuba abarhafi baphathwa ngokulinganayo. Kuveliswe iinkqubo ezahlukeneyo zokunxibelelana ngobuxhakaxhaka bomatshini.
+
+I-Interface User Guide  ifumaneka kwi-SARS Online kwaye ijoliswe ekubeni iphendule uninzi lwemibuzo nezicelo zengcaciso.
+
+Entla
+
+Inkqubo emayilandelwe
+
+Bhalisela ukubangugxa wonxibelelwano ngobuxhakaxhaka bomatshini ngokugcwalisa nokuthumela ifom yobhaliso yobuxhakaxhaka bomatshini, enenombolo ethi INF001 kwi: SARS Interface Administration, P.O. Box 402, Pretoria 0001 okanye nge e-mail kwi-adresi ethi: its.interfaces@sars.gov.za. Izicelo zokongezelwa ixesha lokubuyisa iifom zerhafu yengeniso-mali zingenziwa ngokomatshini ngaphandle kwemfuneko yokubhalisa.
+Gcina ezi nkcukacha zilandelayo zinikwe yi-SARS emva kobhaliso:
+
+igama lokungena eliyimfihlo ukuze ufikelele kubuxhakaxhaka be-SARS
+uphawu lokwazisa inkqubo elinikwe umbutho yi-SARS
+uphawu lokwazisa umsebenzisi kunye negama eliyimfihlo lokungena kwifayili yomatshini ye-SARS apho kuyakukhutshelwa khona ifayili yenkcazelo
+i-adresi yonxibelelwano lobuxhakaxhaka okanye iinombolo zokucofa, kwimeko yoNxibelelwano olusebenzisa iMfonomfono ekuthiwa yi-Public Switched Telephone Network  kunye nonxibelelwano nge-Integrated Services Digital Network .
+
+Fumana iinkqubo ezifakwa kwikhompiyutha zokutshintshela inkcazelo kwiimpawu ezithile  kunye nemigaqo yokufaka inkqubo esuka kwi-SARS. Ngokwesiqhelo i-SARS iyazizisa kulo mbutho ezi nkqubo zifakwa kwikhompiyutha.
+Faka inkqubo engena kwikhompiyutha yokutshintshela inkcazelo kwiimpawu ezithile.
+Thumela iifayili zovavanyo lwenkcazelo kwi-SARS, kwaye ukhuphe iifayili zempendulo yovavanyo kwi-SARS.
+Vuma ukuba uzamkele iifayili zovavanyo lwenkcazelo kuMlawuli woBuxhakaxhaka booMatshini be SARS kwaye usebenzise unxibelelwano lobuxhakaxhaka bomatshini ngokuthumela iifayile zenkcazelo yokwenyani.
+Nxulumana noMlawuli woBuxhakaxhaka boomatshini be-SARS xa kuthe kwakho iifayile zenkcazelo ezonakalisekileyo, iifayili zenkcazelo ezilahlekileyo okanye iifayili zenkcazelo eziphindaphindeneyo.
+
+Entla
+
+Umthetho osetyenziswayo
+
+Income Tax Act, 1962  
+
+Entla
+
+Ixesha elithatyathwayo kunye nomgangatho ofikelelwayo
+
+I-SARS ifake imigangatho yokunika iinkonzo eyakungeniswa ngokwezigaba kwisithuba seminyaka emibini . Xa ubhalisa okanye uhlawula, i-SARS ijolisa ekubeni iqhubekise ubhaliso lwakho ngokuchanekileyo kwisithuba seentsuku zokusebenza ezili 10.
+
+Entla
+
+Iindleko
+
+Le nkonzo ayihlawulelwa.
+
+Entla
+
+Iifom ezigcwaliswayo
+
+
+
+Application for SARS Electronic Interface, INF001 
+Request for Additional SARS Electronic Interface, INF002 
+Change of Particulars for SARS Electronic Interface, INF003 
+
+Entla
+
+Iinkcukacha zonxulumano
+
+

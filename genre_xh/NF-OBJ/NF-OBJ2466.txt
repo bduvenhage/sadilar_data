@@ -1,0 +1,97 @@
+﻿
+
+Isicelo sokubhalisela ukubuyiselwa imali
+
+Inkcazelo
+Inkqubo emayilandelwe
+Umthetho osetyenziswayo
+Ixesha elithatyathwayo kunye nomgangatho ofikelelwayo
+Iindleko
+Iifom ezigcwaliswayo
+Iinkcukacha zonxulumano
+
+Inkcazelo
+
+Le nkonzo inika inkcazelo malunga nendlela yokubhalisela ukubuyiselwa imali yi-South African Revenue Service. Le mali ibuyiswayo sisaphulelo kwintlawulo yokungenisa impahla nezinto ehlawuleka xa ungenisa impahla nezinto ezithile kweli lizwe.
+
+Entla
+
+Inkqubo emayilandelwe
+
+Umenzi-sicelo, hayi umntu wesithathu, kufuneka ibenguye ogcwalise ifom yesicelo , kungenjalo isicelo asiyi kuqwalaselwa.
+Kwicandelo  elithi Client Types , khangela ibhokisi yokuhlola iMali eBuyiswayo, kwicandelo lobhaliso.
+Kwicandelo elithi Trading particulars  , kufuneka uchaze:
+
+igama lokurhweba leshishini lakho
+igama nenombolo yesitalato seshishini elibuyiselwayo
+igama kunye nenombolo yomgangatho wesakhiwo ekuqhutyelwa kuso eli shishini
+ummandla wedolophu elimi kuwo ishishini
+isixeko okanye idolophu elimi kuyo ishishini
+ikhowudi yesitalato sommandla wedolophu elimi kuwo ishishini.
+
+Icandelo elithi Authority to apply , maligcwaliswe ngumenzi-sicelo  xa usenza isicelo sokuba ngumsebenzisi wokubuyiswa kwemali.
+Igama lomenzi-sicelo okanye igama lobhaliso lweshishini, hayi igama lorhwebo, kufuneka liboniswe kweli candelo.
+Apho kubonakala khona inkwenkwezana ekuthiwa yi-asterisk (), susa nayiphina efaneleke njalo.
+Kwicandelo elithi Rebate Store particulars , kufuneka unike:
+
+inkcazelo yempahla nezinto eziyakugcinwa kwishishini lokubuyiselwa imali
+izinga lemirhumo yentlawulo okanye imiba yempahla nezinto ezingeniswayo eziyakugcinwa kwishishini lokubuyiselwa imali
+imiba yokubuyiselwa imali phantsi kwamanani oludwe lwenkqubo yesi 3, 4, 5 kunye neyesi 6
+inkcazelo yemveliso engeniswa kweli lizwe okanye impahla nezinto ezingeniswa kweli lizwe.
+
+Kwicandelo le Declaration , kufuneka ufake:
+
+oonobumba bamagama okuqala kunye nefani yomntu owenza isicelo sokunikwa ilayisensi
+isikhundla somntu owenza isicelo, umzekelo, UMqondisi, uManejala, uMnikazi
+lo mntu wenza isicelo kufuneka atyikitye  ifom yesicelo
+umhla esisayinwe ngawo esi sicelo
+indawo esisayinelwe kuyo esi sicelo.
+
+Umenzi-sicelo makase ifom egcwalisiweyo kwi-ofisi ekufuphi yeMirhumo yeMpahla eNgena eLizweni kunye neRhafu yeMpahla neZinto kunye neeLayisensi ezithile, ye-South African Revenue Services.
+Nceda ufake iikopi eziluqobo lwazo okanye eziqinisekisiweyo zale miqulu ilandelayo:
+
+isatifiketi sobhaliso lweshishini njengoko sikhutshwe nguMphathi woBhaliso lweeNkampani okanye iNqununu yeNkundla ePhezulu kwimeko yeQumrhu lokuGcina ngeNtembeko
+isindululo okanye imvume okanye elinye igunya njengoko kubandakanyeka
+iphepha lemvume  yeSebe lezoRhwebo naMashishini ukuba iyabandakanyeka
+iindlela zokubala ukubangaba wenza isicelo phantsi komba wokubuyiselwa imali ku 607.04.10, 607.04.10, 607.04.10 naku 607.04.10
+iincwadi zezazisi xa umntu enguMmi waseMzantsi Afrika okanye iincwadi zePaspoti xa umntu engahlali kweli lizwe:
+
+kumntu ubuqu bakhe
+kooGxa beNtsebenziswano kwiQumrhu eliNgavulelekanga neQumrhu lokuGcina ngeNtembeko – Onke aMalungu/ooGxa beNtsebenziswano/ aMalungu aPhathiswe iQumrhu ngeNtembeko
+KwiNkampani – Bonke abaqondisi, kubandakanywa uMqondisi oLawulayo kunye noMqondisi weZemali.
+
+
+
+Entla
+
+Umthetho osetyenziswayo
+
+Customs and Excise Act, 1964  
+
+Entla
+
+Ixesha elithatyathwayo kunye nomgangatho ofikelelwayo
+
+UMqulu weNkonzo  we-SARS ubonisa imigangatho yenkonzo eyakufakwa ngaku 2007.
+
+Entla
+
+Iindleko
+
+Le nkonzo ayihlawulelwa.
+
+Entla
+
+Iifom ezigcwaliswayo
+
+
+
+Security particulars, DA 185C
+Licensing/Registration of custom and excise clients, DA185
+Registration client type - Rebate User, DA185.4A3
+
+Entla
+
+Iinkcukacha zonxulumano
+
+

@@ -1,0 +1,15 @@
+Naam van waterbron
+Betroubaarheid van waterbron merk slegs een met 'n kruis X a Water altyd beskikbaar ... b droog gedurende sekere seisoene c dikwels droog ... 
+Lêer nommer
+Die water word gebruik vir (dui alle gebruike aan met 'n kruis X): Landbou: besproeiing (voltooi asseblief vorm DW787: Besproeiing en Gewasinligting) Landbou: water vir veestapel Akwakultuur Industrie Mynbou Huishoudelike watergebruik Ontspanning Ander (spesifiseer) of gebaseer op vorige vloeimetings
+Die totale volume water onttrek per jaar is kubieke meter geraamde
+Verwysingsnommer of naam van onttrekkingspunt
+Datumstempel van kantoor
+Vir meervoudige boorgat ontrekkings, verskaf die geografiese ligging van elke boorgat
+Dui aan met 'n X of dit 'n nuwe gebruik of 'n wysiging is ... (gebruik nommer )
+Tipe waterbron (merk slegs een met 'n kruis X )
+Ontvang deur:Van Voorletters
+Vir enkel oppervlakwater/boorgat ontrekking, verskaf die geografiese ligging van die onttrekkingspunt:
+ander ... (beskryf):
+Seisoenale watergebruik a) Die beraamde wateronttrekkingskedule is ( in kubieke meter of % per maand
+Desb ...of by benadering merk slegs een met 'n kruis X :a die hele jaar b hoofsaaklik reënseisoen c Hoofsaaklik droë seisoen d onseker

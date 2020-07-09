@@ -1,0 +1,40 @@
+Lower ground, doors opening. Umgangatho osezantsana,iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Upper ground, doors opening. Umgangatho ophezulwana, iingcango ziyavuleka.
+
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. / Iyehla. 
+
+Floor 1, doors opening. Umgangatho wokuqala, iingcango ziyavuleka
+Doors opening. Iingcango ziyavuleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 2, doors opening. Umgangatho wesibini, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 3, doors opening. Umgangatho wesithathu, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka. 
+Going up. / Going down. Iyenyuka. /Iyehla. 
+
+Floor 4, doors opening. Umgangatho wesine, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 5, doors opening. Umgangatho wesihlanu, iingcango ziyavuleka.
+Doors opening. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 6, doors opening. Umgangatho wesithandathu, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 7, doors opening. Umgangatho wesixhenxe, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka. 
+Going up. / Going down. Iyenyuka. /Iyehla.
+
+Floor 8, doors opening. Umgangatho wesibhozo, iingcango ziyavuleka.
+Doors closing. Iingcango ziyavaleka.
+Going up. / Going down. Iyenyuka./Iyehla.
